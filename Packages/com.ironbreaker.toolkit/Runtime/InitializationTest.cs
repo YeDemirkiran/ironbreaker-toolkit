@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace Ironbreaker.Toolkit
 {
+    [AddComponentMenu("Ironbreaker Toolkit/Initialization Test")]
     public class InitializationTest : MonoBehaviour
     {
         internal const string PackageVersion = "0.1.0";
